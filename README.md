@@ -33,3 +33,10 @@ Yacc -Yet Another Compiler Compiler
         | Realnumber
     { printf("");
     $$ = $1;}
+
+
+不確定我講得清不清楚，但我發現很多人不知道是沒看到pdf還是怎樣
+
+一直問我$$是什麼$1是甚麼= =
+
+YACC比較難需要一點時間理解就是了
